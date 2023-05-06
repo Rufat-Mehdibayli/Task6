@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#frame{
+    position: relative;
+    width: 1853px;
+    height: 2283px;
+    background-color: white ;
+}
+header {
+    position: absolute;
+    width: 1838px;
+    height: 130px;
+    left: 0px;
+    top: 0px;
+    background-color:white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#header{
+    font-size: 49px;
+    color: #109E97;
+}
+#orta{
+    position: absolute;
+    width: 1838px;
+    height: 60px;
+    left: 0px;
+    top: 130px;
+    background-color: #109E97;
+    border-top: solid 3px black;
+    display: flex;
+    justify-content: center;
+    color: white;
+
+}
+#bir{
+    padding: 0px 48px ;
+    border-left: solid 2px white;
+    padding-top:21px ;
+    border-right: solid 2px white;
+}
+#iki{
+    padding-top:21px ;
+    padding-left:45px ;
+    padding-right:45px ;
+    border-right: solid 2px white;
+}
+#uc{
+    padding-top:21px ;
+    padding-left:28.5px ;
+    padding-right:28.5px ;
+    border-right: solid 2px white;
+}
+#dord{
+    padding-top:21px ;
+    padding-left:45px ;
+    padding-right:47px ;
+    border-right: solid 2px white;
+}
+#bes{
+    padding-top:21px ;
+    padding-left:67px ;
+    padding-right:68px ;
+    border-right: solid 2px white;
+}
+#backround{
+    position: absolute;
+    width: 1838px;
+    height: 628px;
+    left: 0px;
+    top: 190px;
+    background-image:url(./Rectangle.svg);
+    display: flex;
+}
+#sekildiv{
+     margin:117px 120px 0px 449px;
+}
+#img2{
+    position: absolute;
+    width: 300px;
+    height: 391px;
+   
+}
+#sozler1{
+    position: absolute;
+    width: 533px;
+    left: 849px;
+    top:59px;
+    font-size: 18px;
+}
+#sozler2{
+    position: absolute;
+    width: 533px;
+    height: 211px;
+    left: 849px;
+    top: 138px;
+    font-size: 18px;
+}
+#sozler3{
+    position: absolute;
+    width: 505px;
+    height: 117px;
+    left: 849px;
+    top: 338px;
+    font-size: 18px;
+}
+button{
+    position: absolute;
+    width: 148px;
+    height: 44px;
+    left: 849px;
+    top: 504px;
+    background-color:#109E97;
+    color: white;
+}
+#kitablar{
+    position: absolute;
+    width: 161px;
+    height: 32px;
+    font-size: 32px;
+    top: 866px;
+    justify-content: center;
+    left: 838px;
+}
+#container{
+    position: absolute;
+    width: 960px;
+    height: 1155px;
+    left: 439px;
+    top: 950px;
+    border: 2px solid #916A6A;
+    /* display: flex; */
+}
+#flex{
+    display: flex;
+}
+#c1{
+    width: 252px;
+    height: 344px;
+    border: 1px solid #109E97;
+    margin: 32px 50px 30px 52px;
+}
+#sekil1{
+   position: absolute;
+   margin: 31px 51px 86px 51px;
+}
+#c2{
+    width: 252px;
+    height: 344px;
+    border: 1px solid #109E97;
+    margin: 32px 50px 30px 0px;
+}
+#c3{
+    width: 252px;
+    height: 344px;
+    border: 1px solid #109E97;
+    margin: 32px 0px 30px 0px;
+}
+#flex2{
+    display: flex;
+}
+#c4{
+    width: 252px;
+    height: 344px;
+    border: 1px solid #109E97;
+    margin-left: 52px;
+    margin-right: 50px;
+    margin-bottom: 29px;
+}
+#c5{
+    width: 252px;
+    height: 344px;
+    border: 1px solid #109E97;
+    margin: 0px 50px 29px 0px;
+}
+#c6{
+    width: 252px;
+    height: 344px;
+    border: 1px solid #109E97;
+}
+#flex3{
+    display: flex;
+}
+#c7{
+    width: 252px;
+    height: 344px;
+    border: 1px solid #109E97;
+    margin-left: 52px;
+    margin-right: 50px;
+}
+#c8{
+    width: 252px;
+    height: 344px;
+    border: 1px solid #109E97;
+    margin-right: 50px;
+}
+#c9{
+    width: 252px;
+    height: 344px;
+    border: 1px solid #109E97;
+}
+#end{
+    position: absolute;
+width: 1838px;
+height: 98px;
+left: 0px;
+top: 2185px;
+background-color: #109E97;
+
+}
